@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "jsx": "react",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "noImplicitAny": true, //false可以用any,true不行
+    "esModuleInterop": true
+  },
+  // 编译的范围
+  "include": [
+    "./src/**/*",
+    "./typings/**/*"
+  ]
+}
