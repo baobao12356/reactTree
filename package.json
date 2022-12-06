@@ -35,7 +35,7 @@
     "jest-junit": "^9.0.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
-    "qs": "^6.9.0",
+    "qs": "^6.9.7",
     "source-map-loader": "^0.2.4",
     "style-loader": "^1.0.0",
     "ts-jest": "^24.1.0",
